@@ -1,6 +1,6 @@
-#include <iostream>
+import ECS;
 
-int main(int argc, char **argv) {
-    std::cout << "hello world!" << std::endl;
-    return 0;
+int main() {
+  hello();
+  hello();
 }
